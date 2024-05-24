@@ -1,4 +1,5 @@
 # Sentimental-Analysis-on-Product-Reviews-using-Deep-Learning
+**INTRODUCTION**
 The idea introduces an automated sentiment analysis framework tailored for E-commerce datasets. Leveraging a combination of Convolution Neural Networks(CNN) and Bidirectional Long Short-Term Memory networks(BiLSTM), the proposed model employs heuristic-based techniques to enhance the accuracy of sentiment classification.
 The integration of CNN facilitates effective feature extraction from textual data, while BILSTM captures contextual dependencies and sequential patterns. 
 The heuristic approach fine-tunes the model by incorporating domain specific knowledge, optimizing its performance for sentiment analysis in the context of E- commerce. 
